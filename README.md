@@ -2,7 +2,7 @@
 
 Data, code and results for a study of alignment sensing in a Fourier-based multipass amplifier.
 
-[Download the reproducibility archive](05_ESM_2_Reproducibility_Archive.zip?raw=true)
+[Download the reproducibility archive](05_ESM_2_Reproducibility_Archive%20%285%29.zip?raw=true)
 
 Extract the ZIP and follow the instructions in its `README.md`. It contains the digitized source data, analysis scripts, study notebook, stored results and figures.
 
